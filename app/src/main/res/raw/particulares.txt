@@ -1,0 +1,2 @@
+Patio 1,Puesto 4,Auto,GG1122,,,
+Patio 1,Puesto 5,Camioneta,HH1122,,,
