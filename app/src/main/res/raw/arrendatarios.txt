@@ -1,0 +1,2 @@
+Patio 1,Puesto 1,Camión,AA1122,Rampla,BB1122,ING
+Patio 1,Puesto 2,Camión 3/4,CC1122,Termino,DD1122,SPATE
