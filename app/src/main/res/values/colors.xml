@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF4081</color>
+    <color name="colorPrimaryDark">#C2185B</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorTextPrimary">#000000</color>
+    <color name="colorTextSecondary">#757575</color>
+    <color name="colorArrendatario">#4CAF50</color> <!-- Verde -->
+    <color name="colorParticular">#2196F3</color>   <!-- Azul -->
+    <color name="colorLibre">#EEEEEE</color>        <!-- Gris claro -->
+    <color name="colorError">#F44336</color>        <!-- Rojo -->
+</resources>
