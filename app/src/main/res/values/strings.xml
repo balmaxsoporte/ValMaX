@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ValMaX</string>
+    <string name="login_title">Bienvenido de nuevo</string>
+    <string name="username_hint">Nombre de usuario</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="forgot_password">¿Olvidaste tu contraseña?</string>
+    <string name="map_title">Mapa de Estacionamiento</string>
+    <string name="quick_access">Acceso Rápido</string>
+    <string name="edit_parking_space">Editar lugar de estacionamiento</string>
+    <string name="add_parking_space">Añadir lugar de estacionamiento</string>
+    <string name="vehicle_type">Tipo de vehículo</string>
+    <string name="plate_number">Placa</string>
+    <string name="trailer">Remolque</string>
+    <string name="container">Contenedor</string>
+    <string name="save_button">Guardar</string>
+    <string name="administrate_users">Administrar Usuarios</string>
+    <string name="existing_users">Usuarios Existentes</string>
+    <string name="add_new_user">Agregar Nuevo Usuario</string>
+    <string name="user_name">Nombre de Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="permissions">Permisos</string>
+    <string name="edit_users">Editar Usuarios</string>
+    <string name="edit_spaces">Editar Puestos</string>
+    <string name="edit_patio_plates">Editar Patentes de Patio</string>
+    <string name="add_user_button">Agregar Usuario</string>
+    <string name="parking_lot_details">Detalles de Patio</string>
+    <string name="space">Lugar</string>
+    <string name="car">Coche</string>
+    <string name="truck">Camión</string>
+    <string name="van">Furgoneta</string>
+    <string name="ticket_icon">Ticket</string>
+    <string name="edit_icon">Editar</string>
+</resources>
